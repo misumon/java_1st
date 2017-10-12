@@ -1,0 +1,22 @@
+.container{
+	width:1170px;
+	margin:0 auto;
+	text-align:center;
+}
+.main {
+
+  border: 5px solid hsl(0, 0%, 27%);
+  height: 289px;
+}
+h2 {
+  background: hsl(0, 100%, 50%) none repeat scroll 0 0;
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+  letter-spacing: 14px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+p {
+  background: hsl(120, 100%, 25%) none repeat scroll 0 0;
+  color: hsl(0, 0%, 100%);
+}
